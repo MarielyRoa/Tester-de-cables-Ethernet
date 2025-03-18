@@ -1,0 +1,14 @@
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\bin\Debug\net8.0\Tester de cable de Ethernet.exe
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\bin\Debug\net8.0\Tester de cable de Ethernet.deps.json
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\bin\Debug\net8.0\Tester de cable de Ethernet.runtimeconfig.json
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\bin\Debug\net8.0\Tester de cable de Ethernet.dll
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\bin\Debug\net8.0\Tester de cable de Ethernet.pdb
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.AssemblyInfoInputs.cache
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.AssemblyInfo.cs
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.csproj.CoreCompileInputs.cache
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.dll
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\refint\Tester de cable de Ethernet.dll
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.pdb
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\Tester de cable de Ethernet.genruntimeconfig.cache
+c:\Users\marie\OneDrive\Escritorio\Tester de cable de Ethernet\Tester de cable de Ethernet\obj\Debug\net8.0\ref\Tester de cable de Ethernet.dll
